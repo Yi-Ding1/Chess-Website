@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type="button"] {
+	height: 60px;
+	width: 60px;
+	background-color:transparent;
+	padding: 10px;
+	text-align: center;
+	font-size: 35px;
+	}
+table{align-self: baseline;}
+
+.red {
+	color: red;
+}
+
+.black {
+	color: black;
+}
